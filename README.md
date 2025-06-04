@@ -58,6 +58,13 @@ The dataset includes variables capturing key aspects of each transaction:
 
 ---
 
+## Tableau Dashboard
+
+Explore the interactive dashboard for detailed visualizations and insights:  
+[TransJakarta Analysis April 2023](https://public.tableau.com/app/profile/kevin.rio.harristyando/viz/TransjakartaAnalysisApril2023/TransjakartaAnalysis)
+
+---
+
 ## Steps to Run the Project
 
 1. **Download the Dataset**  
